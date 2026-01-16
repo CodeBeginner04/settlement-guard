@@ -69,6 +69,4 @@ Automated testing is configured via GitHub Actions.
 -   **API**: FastAPI, Uvicorn
 -   **Ops**: Docker, GitHub Actions
 
----
 
-**Developed for BNY Mellon Advanced Engineering Simulation**
